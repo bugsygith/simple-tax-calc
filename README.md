@@ -3,3 +3,4 @@ simple pph21 calculation
 sample :
 $tax = new(234000000);
 $result = $tax->calculatetax();
+echo $result; //30100000
